@@ -15,3 +15,5 @@ RUN pip install h5py==2.9.0
 RUN pip install imageio==2.9.0
 RUN pip install imageio-ffmpeg==0.4.2
 RUN pip install tqdm==4.49.0
+RUN pip install moviepy==1.0.3
+RUN pip install opensimplex
